@@ -1,7 +1,7 @@
 
 
 # Tabelas de git #
-Coluna git |  Coluna de comandos
+Coluna de comandos git |  Coluna de git 
 :------- | ------:
 ` identidade no git` | basta escrever  **git config --globar user.name "seu nome"** e **git config --global usar.email "seu email"** para dar finalidade a commit inicial.
 `git init` | Vai dar iniciação a um repositório local de sua maquina. 
