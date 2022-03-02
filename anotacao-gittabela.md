@@ -1,4 +1,4 @@
-# Anotações d
+
 
 # Tabelas de git #
 Coluna git |  Coluna de comandos
