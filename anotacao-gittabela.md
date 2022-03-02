@@ -8,7 +8,7 @@ Coluna git |  Coluna de comandos
 `git config --list`| Serve para analisar suas configurações no git.
 `git pull` | Puxa repositório de origin e sincroniza com HEAD.
 `git switch <branch>` | Muda para **branch**.
-`git add ` | vai iniciar a transferencia</br> do arquivo escolhido
+`git add* ` | vai iniciar a transferencia</br> do arquivo escolhido
 `git add README.md` | *opcional* adicione o arquivo **README.md** para iniciar a transferencia.
 `git commit -... "first commit(nome do arquivo na maquina)` | Realiza commit com arquivos colocados em cena </br> `-a` : adiciona todos arquivos em cena automaticamente (Que já estejam sendo rastreados). </br> `-m <mensagem>` : define nome da commit.
 `git remote add origin URL\\https:github....`| Vai dar localidade ao seu repositorio (arquivo READMRE.md) e exportar o arquivo/repositovio no seu github
