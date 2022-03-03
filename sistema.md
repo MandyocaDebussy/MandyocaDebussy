@@ -23,17 +23,17 @@ computador e de super-rapido acesso por ele.</br>E de suma importancia ele
 facilita o trabalho do processador que pode acessar os dados essenciais mais
 rapido.
 
-`Memórias ROM(Memória de Leitura)` | Gravação de dados por uma unica vez,não sendo 
+`Memórias ROM(Memória de Leitura)` |  Gravação de dados por uma unica vez,não sendo 
 possivel apagar ou editar nenhuma informação,somente acessar o mesmo.
  
-`Hardware`  | São os componetes externos de um computador,conhecido como equipamentos/periféricos**(Processador/placa mãe/memória ram)**
+`Hardware`  |  São os componetes externos de um computador,conhecido como equipamentos/periféricos**(Processador/placa mãe/memória ram)**
  
-`Software` | São componentes internos de um computador,conhecidos por</br> processamento de dados e leitura
+`Software` |  São componentes internos de um computador,conhecidos por</br> processamento de dados e leitura
 de codigos de programação.Tal como a parte logica e trabalha no algoritimo do computador.
 
-`In(Entrada)` | Dispositivos de entrada comum: *Mouse,teclado,Scanner,Microfone Webcam,etc...*
+`In(Entrada)` |  Dispositivos de entrada comum: *Mouse,teclado,Scanner,Microfone Webcam,etc...*
 
-`Out(saida)`  | Dispositivos de saida comum:* Tela, Impressora,Caixa de som, etc... *
+`Out(saida)`  |  Dispositivos de saida comum:* Tela, Impressora,Caixa de som, etc... *
 
 `Out and In(Entrada e saida)` |  Alguns desses com armazenamento e comunicação</br>
 ambas funções de entrada e saida são: Disco rigido,Pen drive,placa de rede,modem, etc...
