@@ -11,7 +11,7 @@ Coluna de comandos git |  Coluna de git
 `git add* ` | vai iniciar a transferencia</br> do arquivo escolhido
 `git add README.md` | *opcional* adicione o arquivo **README.md** para iniciar a transferencia.
 `git commit -... "first commit(nome do arquivo na maquina)` | Realiza commit com arquivos colocados em cena </br> `-a` : adiciona todos arquivos em cena automaticamente (Que já estejam sendo rastreados). </br> `-m <mensagem>` : define nome da commit.
-`git remote add origin URL\\https:github....`| Vai dar localidade ao seu repositorio (arquivo READMRE.md) e exportar o arquivo/repositovio no seu github
+`git remote add origin URL\\https:github....`| Vai dar localidade ao seu repositorio (arquivo README.md) e exportar o arquivo/repositovio no seu github
 `git push <origin main> <branch>` | Sobe repositório para o GitHib. </br> `-u` : define local remoto do repositorio. </br> `-f` : modo forçado.
   `git remote -v` | Vai verigicar seu URL de repositorios no GitHub que estão em ligação com a maquina de forma remota
   ` git rm ` | Remove arquivos **--cached** remove apenas do repositório local e mantém o arquivo no local de trabalho.* 
