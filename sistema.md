@@ -15,6 +15,7 @@ Sistemas | Sua função
 `Out(saida)`  |  Dispositivos de saida comum:* Tela, Impressora,Caixa de som, etc... *
 `Out and In(Entrada e saida)` |  Alguns desses com armazenamento e comunicação ambas funções de entrada e saida são: Disco rigido,Pen drive,placa de rede,modem, etc...**(apesar de efetuarem ambas funções são conhecidos como meméria secundária)**
 `Barramento de memória`| Conhecido como as linhas "brancas"que ficam ligadas no chip de memória que faz a ligação  e ser transmitida simultaneamente entre a memória (principal ou da placa de vídeo) e outros componentes (como o processador)
+`Memória secundaria`| São memórias com capacicade de armazenamento maior de dados no computador em questão de armazenamento. **ex:HDD,Pen Drive,Cartão ssd,etc...**
 
 ## Observação ##
 >No momento coloquei informaçoes basicas para estudo 
