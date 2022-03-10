@@ -17,6 +17,7 @@ Sistemas | Sua função
 `Barramento de memória`| Conhecido como as linhas "brancas"que ficam ligadas no chip de memória que faz a ligação  e ser transmitida simultaneamente entre a memória (principal ou da placa de vídeo) e outros componentes (como o processador)
 `Memória secundaria`| São memórias com capacicade de armazenamento maior de dados no computador em questão de armazenamento. **ex:HDD,Pen Drive,Cartão ssd,etc...**
 
+
 ## Observação ##
 >No momento coloquei informaçoes basicas para estudo 
 >acadêmico. Pois,eventualmente passeirei mais informaçoes sobre o assunto.
