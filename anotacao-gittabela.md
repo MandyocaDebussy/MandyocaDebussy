@@ -17,9 +17,7 @@ Coluna de comandos git |  Coluna de git
   ` git rm ` | Remove arquivos **--cached** remove apenas do repositório local e mantém o arquivo no local de trabalho.* 
   ` git branch` | Mostra lista de branches do projeto`-d:` deleta branch.`-D :` deleta branch em modo forçado, mesmo que não tenha sido fundida.
 `git remote` | Mostra repositórios remotos existentes. </br> `add <nome/origin>` : adiciona novo repositório remoto. </br> `rename <velho> <novo>` : renomeia repositório remoto. </br> `remove` : remove repositório remoto. </br> `set-head <nome>` : define como HEAD. </br> `-v` : modo verboso.
-`git checkout <hash, branch, arquivo>` |  Verifica diferenla entre o que ocorreu e estado atual que aplica sob o HEAD `--b <nome><base>`:Cria uma nova branch com base em outra e mudada para ela.
-`--orphan` uma branch vazia é criada 
-`--pasta/arquivo` faz checkout somente do especificado ex:pasta
+`git checkout <hash, branch, arquivo>` |  Verifica diferenla entre o que ocorreu e estado atual que aplica sob o HEAD `--b <nome><base>`:Cria uma nova branch com base em outra e mudada para ela.`--orphan`uma branch vazia é criada `--pasta/arquivo`faz checkout somente do especificado ex:pasta
 ### Observação ###
 
 >algumas alterações seram feitas eventualmente </br> estou apenas aplicando o básico de Git e GitHub aqui </br>Espero que sirva de aprendizado inicial desta ferramenta.
