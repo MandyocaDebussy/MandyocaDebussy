@@ -3,6 +3,7 @@
 ## coluna de comandos a serem usados ## 
 
 :------- | ------:
+
 `sudo passwd root`| Troca senha do usuário
 
 `sudo pacman -Sy` | sincroniza os 
