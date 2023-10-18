@@ -7,9 +7,9 @@ E descobri minha paixao no desenvolvimento Front-end pois acredito que arte e te
 
 - 🔭 Atualmente estou trabalhando em varios projetos acadêmicos e artes voltado para Pixel Arte
 
-## Estou aprendendo mas tenho conhecimento e experiencia nestas ferramentas:
+- Estou aprendendo mas tenho conhecimento e experiencia nestas ferramentas:
 
-  <div style="display:inline;">
+  <div style="display:inline">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
