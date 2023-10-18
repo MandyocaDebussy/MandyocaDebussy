@@ -7,7 +7,7 @@ E descobri minha paixao no desenvolvimento Front-end pois acredito que arte e te
 
 - 🔭 Atualmente estou trabalhando em varios projetos acadêmicos e artes voltado para Pixel Arte
 
-- Estou aprendendo mas tambem tenho conhecimento e experiencia nestas ferramentas:
+- 🔭 Estou aprendendo mas tambem tenho conhecimento e experiencia nestas ferramentas:
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>            
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>         
@@ -20,7 +20,8 @@ E descobri minha paixao no desenvolvimento Front-end pois acredito que arte e te
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  width="40" height="40"/>                  
 </div>
         
 
