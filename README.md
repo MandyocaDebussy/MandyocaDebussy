@@ -1,5 +1,5 @@
 ## Olá pessoal ![iconmandy](https://github.com/MandyocaDebussy/MandyocaDebussy/assets/90736206/a82392f6-f6b6-459b-9fb9-fbc0b945c007)
-! 
+
 
 Me chamo Amanda,porem sou conhecida como *Mandyoca/Mandy/Yui*.
 Estou aprendendo em passos curtos de como esse universo funciona :D
