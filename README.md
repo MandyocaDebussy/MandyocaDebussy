@@ -27,4 +27,5 @@ E descobri minha paixao no desenvolvimento Front-end pois acredito que arte e te
 </div>
         
 
+![mandydev](https://github.com/MandyocaDebussy/MandyocaDebussy/assets/90736206/1c83d0d3-6a7e-46cf-8092-e5012ed058d1)
 
