@@ -6,6 +6,7 @@ Coluna de comandos git |  Coluna de git
 ` identidade no git` | basta escrever  **git config --globar user.name "seu nome"** e **git config --global usar.email "seu email"** para dar finalidade a commit inicial.
 `git reset / git add / git commit - m / git push origin [branch]` | vai resetar o git e tirar a mensagem "everything up-to date ". 
 `git init` | Vai dar iniciação a um repositório local de sua maquina. 
+`git branch -m master main` | Vai mudar a branch master para main no GitHub. 
 `git config --list`| Serve para analisar suas configurações no git.
 `git pull` | Puxa repositório de origin e sincroniza com HEAD.
 `git switch <branch>` | Muda para **branch**.
